@@ -5,7 +5,8 @@
   "main": "1-helloworld.js",
   "dependencies": {
     "concat-stream": "^1.5.2",
-    "through2-map": "^3.0.0"
+    "through2-map": "^3.0.0",
+    "url": "^0.11.0"
   },
   "devDependencies": {},
   "scripts": {
